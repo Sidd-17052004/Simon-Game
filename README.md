@@ -1,8 +1,8 @@
 # Simon-Game
 
-Description :-
+<b> Description :-
 The Simon Game is a fun and interactive memory game where players must repeat a sequence of colors in the correct order. The game starts with a simple sequence and adds one more color to the sequence after each successful round. The challenge is to remember the order as it becomes increasingly complex.
-<b> This project is built using HTML, CSS, and JavaScript.<b>
+<b> This project is built using HTML, CSS, and JavaScript.<b> <b>
 
 Features :-
 Interactive Gameplay: Players are challenged to remember and repeat an increasingly complex sequence of colors.
